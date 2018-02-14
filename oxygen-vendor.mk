@@ -19,13 +19,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/oxygen/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/xiaomi/oxygen/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/xiaomi/oxygen/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
-    vendor/xiaomi/oxygen/proprietary/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb:system/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb \
-    vendor/xiaomi/oxygen/proprietary/etc/acdbdata/Forte/Forte_General_cal.acdb:system/etc/acdbdata/Forte/Forte_General_cal.acdb \
-    vendor/xiaomi/oxygen/proprietary/etc/acdbdata/Forte/Forte_Global_cal.acdb:system/etc/acdbdata/Forte/Forte_Global_cal.acdb \
-    vendor/xiaomi/oxygen/proprietary/etc/acdbdata/Forte/Forte_Handset_cal.acdb:system/etc/acdbdata/Forte/Forte_Handset_cal.acdb \
-    vendor/xiaomi/oxygen/proprietary/etc/acdbdata/Forte/Forte_Hdmi_cal.acdb:system/etc/acdbdata/Forte/Forte_Hdmi_cal.acdb \
-    vendor/xiaomi/oxygen/proprietary/etc/acdbdata/Forte/Forte_Headset_cal.acdb:system/etc/acdbdata/Forte/Forte_Headset_cal.acdb \
-    vendor/xiaomi/oxygen/proprietary/etc/acdbdata/Forte/Forte_Speaker_cal.acdb:system/etc/acdbdata/Forte/Forte_Speaker_cal.acdb \
     vendor/xiaomi/oxygen/proprietary/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb:system/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb \
     vendor/xiaomi/oxygen/proprietary/etc/acdbdata/QRD/QRD_General_cal.acdb:system/etc/acdbdata/QRD/QRD_General_cal.acdb \
     vendor/xiaomi/oxygen/proprietary/etc/acdbdata/QRD/QRD_Global_cal.acdb:system/etc/acdbdata/QRD/QRD_Global_cal.acdb \
@@ -33,13 +26,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/oxygen/proprietary/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb:system/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb \
     vendor/xiaomi/oxygen/proprietary/etc/acdbdata/QRD/QRD_Headset_cal.acdb:system/etc/acdbdata/QRD/QRD_Headset_cal.acdb \
     vendor/xiaomi/oxygen/proprietary/etc/acdbdata/QRD/QRD_Speaker_cal.acdb:system/etc/acdbdata/QRD/QRD_Speaker_cal.acdb \
-    vendor/xiaomi/oxygen/proprietary/etc/acdbdata/Tutu/Tutu_Bluetooth_cal.acdb:system/etc/acdbdata/Tutu/Tutu_Bluetooth_cal.acdb \
-    vendor/xiaomi/oxygen/proprietary/etc/acdbdata/Tutu/Tutu_General_cal.acdb:system/etc/acdbdata/Tutu/Tutu_General_cal.acdb \
-    vendor/xiaomi/oxygen/proprietary/etc/acdbdata/Tutu/Tutu_Global_cal.acdb:system/etc/acdbdata/Tutu/Tutu_Global_cal.acdb \
-    vendor/xiaomi/oxygen/proprietary/etc/acdbdata/Tutu/Tutu_Handset_cal.acdb:system/etc/acdbdata/Tutu/Tutu_Handset_cal.acdb \
-    vendor/xiaomi/oxygen/proprietary/etc/acdbdata/Tutu/Tutu_Hdmi_cal.acdb:system/etc/acdbdata/Tutu/Tutu_Hdmi_cal.acdb \
-    vendor/xiaomi/oxygen/proprietary/etc/acdbdata/Tutu/Tutu_Headset_cal.acdb:system/etc/acdbdata/Tutu/Tutu_Headset_cal.acdb \
-    vendor/xiaomi/oxygen/proprietary/etc/acdbdata/Tutu/Tutu_Speaker_cal.acdb:system/etc/acdbdata/Tutu/Tutu_Speaker_cal.acdb \
     vendor/xiaomi/oxygen/proprietary/etc/acdbdata/adsp_avs_config.acdb:system/etc/acdbdata/adsp_avs_config.acdb \
     vendor/xiaomi/oxygen/proprietary/etc/age_gender_bg:system/etc/age_gender_bg \
     vendor/xiaomi/oxygen/proprietary/etc/android_model_facea.dat:system/etc/android_model_facea.dat \
