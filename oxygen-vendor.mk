@@ -1543,6 +1543,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libQtiTether.so:system/vendor/lib/libQtiTether.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
+    vendor/xiaomi/oxygen/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libacdb-fts.so:system/vendor/lib/libacdb-fts.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
@@ -1635,10 +1636,12 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libvqzip.so:system/vendor/lib/libvqzip.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libwms.so:system/vendor/lib/libwms.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libwqe.so:system/vendor/lib/libwqe.so \
+    vendor/xiaomi/oxygen/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libxt_native.so:system/vendor/lib/libxt_native.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libxtadapter.so:system/vendor/lib/libxtadapter.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libxtwifi_ulp_adaptor.so:system/vendor/lib/libxtwifi_ulp_adaptor.so \
+    vendor/xiaomi/oxygen/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/rfsa/adsp/libFastRPC_AUE_Forward_skel.so:system/vendor/lib/rfsa/adsp/libFastRPC_AUE_Forward_skel.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/rfsa/adsp/libFastRPC_UTF_Forward_skel.so:system/vendor/lib/rfsa/adsp/libFastRPC_UTF_Forward_skel.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/rfsa/adsp/libapps_mem_heap.so:system/vendor/lib/rfsa/adsp/libapps_mem_heap.so \
