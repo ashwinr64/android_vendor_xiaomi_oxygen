@@ -99,6 +99,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/oxygen/proprietary/lib/hw/fingerprint.fpc.so:system/lib/hw/fingerprint.fpc.so \
     vendor/xiaomi/oxygen/proprietary/lib/hw/fingerprint.goodix.so:system/lib/hw/fingerprint.goodix.so \
     vendor/xiaomi/oxygen/proprietary/lib/libMiCameraHal.so:system/lib/libMiCameraHal.so \
+    vendor/xiaomi/oxygen/proprietary/lib/libgf_algo.so:system/lib/libgf_algo.so \
+    vendor/xiaomi/oxygen/proprietary/lib/libgf_ca.so:system/lib/libgf_ca.so \
+    vendor/xiaomi/oxygen/proprietary/lib/libgf_hal.so:system/lib/libgf_hal.so \
     vendor/xiaomi/oxygen/proprietary/lib/libgoodixfingerprintd_binder.so:system/lib/libgoodixfingerprintd_binder.so \
     vendor/xiaomi/oxygen/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/xiaomi/oxygen/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
@@ -116,6 +119,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/oxygen/proprietary/lib64/hw/audio_policy.default.so:system/lib64/hw/audio_policy.default.so \
     vendor/xiaomi/oxygen/proprietary/lib64/hw/fingerprint.fpc.so:system/lib64/hw/fingerprint.fpc.so \
     vendor/xiaomi/oxygen/proprietary/lib64/hw/fingerprint.goodix.so:system/lib64/hw/fingerprint.goodix.so \
+    vendor/xiaomi/oxygen/proprietary/lib64/libgf_algo.so:system/lib64/libgf_algo.so \
+    vendor/xiaomi/oxygen/proprietary/lib64/libgf_ca.so:system/lib64/libgf_ca.so \
+    vendor/xiaomi/oxygen/proprietary/lib64/libgf_hal.so:system/lib64/libgf_hal.so \
     vendor/xiaomi/oxygen/proprietary/lib64/libgoodixfingerprintd_binder.so:system/lib64/libgoodixfingerprintd_binder.so \
     vendor/xiaomi/oxygen/proprietary/lib64/libmorpho_groupshot.so:system/lib64/libmorpho_groupshot.so \
     vendor/xiaomi/oxygen/proprietary/lib64/libmorpho_memory_allocator.so:system/lib64/libmorpho_memory_allocator.so \
