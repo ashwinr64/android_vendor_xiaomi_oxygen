@@ -117,6 +117,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/oxygen/proprietary/lib64/hw/audio.r_submix.default.so:system/lib64/hw/audio.r_submix.default.so \
     vendor/xiaomi/oxygen/proprietary/lib64/hw/audio.usb.default.so:system/lib64/hw/audio.usb.default.so \
     vendor/xiaomi/oxygen/proprietary/lib64/hw/audio_policy.default.so:system/lib64/hw/audio_policy.default.so \
+    vendor/xiaomi/oxygen/proprietary/lib64/hw/consumerir.msm8953.so:system/lib64/hw/consumerir.msm8953.so \
     vendor/xiaomi/oxygen/proprietary/lib64/hw/fingerprint.fpc.so:system/lib64/hw/fingerprint.fpc.so \
     vendor/xiaomi/oxygen/proprietary/lib64/hw/fingerprint.goodix.so:system/lib64/hw/fingerprint.goodix.so \
     vendor/xiaomi/oxygen/proprietary/lib64/libgf_algo.so:system/lib64/libgf_algo.so \
