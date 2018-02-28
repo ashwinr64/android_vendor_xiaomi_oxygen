@@ -89,12 +89,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/oxygen/proprietary/etc/people_gender.dat:system/etc/people_gender.dat \
     vendor/xiaomi/oxygen/proprietary/etc/sdm_ys_32p_120_21_5_perturb50.bin:system/etc/sdm_ys_32p_120_21_5_perturb50.bin \
     vendor/xiaomi/oxygen/proprietary/etc/watermark_font_2300_3199.dat:system/etc/watermark_font_2300_3199.dat \
-    vendor/xiaomi/oxygen/proprietary/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so \
-    vendor/xiaomi/oxygen/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
     vendor/xiaomi/oxygen/proprietary/lib/hw/audio.primary.msm8953.so:system/lib/hw/audio.primary.msm8953.so \
-    vendor/xiaomi/oxygen/proprietary/lib/hw/audio.r_submix.default.so:system/lib/hw/audio.r_submix.default.so \
-    vendor/xiaomi/oxygen/proprietary/lib/hw/audio.usb.default.so:system/lib/hw/audio.usb.default.so \
-    vendor/xiaomi/oxygen/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
     vendor/xiaomi/oxygen/proprietary/lib/hw/camera.msm8953.so:system/lib/hw/camera.msm8953.so \
     vendor/xiaomi/oxygen/proprietary/lib/hw/fingerprint.fpc.so:system/lib/hw/fingerprint.fpc.so \
     vendor/xiaomi/oxygen/proprietary/lib/hw/fingerprint.goodix.so:system/lib/hw/fingerprint.goodix.so \
@@ -111,12 +106,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/oxygen/proprietary/lib/libmorpho_panorama.so:system/lib/libmorpho_panorama.so \
     vendor/xiaomi/oxygen/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/xiaomi/oxygen/proprietary/lib/soundfx/libdirac.so:system/lib/soundfx/libdirac.so \
-    vendor/xiaomi/oxygen/proprietary/lib64/hw/audio.a2dp.default.so:system/lib64/hw/audio.a2dp.default.so \
-    vendor/xiaomi/oxygen/proprietary/lib64/hw/audio.primary.default.so:system/lib64/hw/audio.primary.default.so \
     vendor/xiaomi/oxygen/proprietary/lib64/hw/audio.primary.msm8953.so:system/lib64/hw/audio.primary.msm8953.so \
-    vendor/xiaomi/oxygen/proprietary/lib64/hw/audio.r_submix.default.so:system/lib64/hw/audio.r_submix.default.so \
-    vendor/xiaomi/oxygen/proprietary/lib64/hw/audio.usb.default.so:system/lib64/hw/audio.usb.default.so \
-    vendor/xiaomi/oxygen/proprietary/lib64/hw/audio_policy.default.so:system/lib64/hw/audio_policy.default.so \
     vendor/xiaomi/oxygen/proprietary/lib64/hw/consumerir.msm8953.so:system/lib64/hw/consumerir.msm8953.so \
     vendor/xiaomi/oxygen/proprietary/lib64/hw/fingerprint.fpc.so:system/lib64/hw/fingerprint.fpc.so \
     vendor/xiaomi/oxygen/proprietary/lib64/hw/fingerprint.goodix.so:system/lib64/hw/fingerprint.goodix.so \
