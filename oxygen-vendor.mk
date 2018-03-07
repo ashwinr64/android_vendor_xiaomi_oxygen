@@ -94,6 +94,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/oxygen/proprietary/lib/hw/fingerprint.fpc.msm8953.so:system/lib/hw/fingerprint.fpc.msm8953.so \
     vendor/xiaomi/oxygen/proprietary/lib/hw/fingerprint.goodix.msm8953.so:system/lib/hw/fingerprint.goodix.msm8953.so \
     vendor/xiaomi/oxygen/proprietary/lib/libMiCameraHal.so:system/lib/libMiCameraHal.so \
+    vendor/xiaomi/oxygen/proprietary/lib/lib_fpc_tac_shared.so:system/lib/lib_fpc_tac_shared.so \
     vendor/xiaomi/oxygen/proprietary/lib/libgf_algo.so:system/lib/libgf_algo.so \
     vendor/xiaomi/oxygen/proprietary/lib/libgf_ca.so:system/lib/libgf_ca.so \
     vendor/xiaomi/oxygen/proprietary/lib/libgf_hal.so:system/lib/libgf_hal.so \
@@ -110,6 +111,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/oxygen/proprietary/lib64/hw/consumerir.msm8953.so:system/lib64/hw/consumerir.msm8953.so \
     vendor/xiaomi/oxygen/proprietary/lib64/hw/fingerprint.fpc.msm8953.so:system/lib64/hw/fingerprint.fpc.msm8953.so \
     vendor/xiaomi/oxygen/proprietary/lib64/hw/fingerprint.goodix.msm8953.so:system/lib64/hw/fingerprint.goodix.msm8953.so \
+    vendor/xiaomi/oxygen/proprietary/lib64/lib_fpc_tac_shared.so:system/lib64/lib_fpc_tac_shared.so \
     vendor/xiaomi/oxygen/proprietary/lib64/libgf_algo.so:system/lib64/libgf_algo.so \
     vendor/xiaomi/oxygen/proprietary/lib64/libgf_ca.so:system/lib64/libgf_ca.so \
     vendor/xiaomi/oxygen/proprietary/lib64/libgf_hal.so:system/lib64/libgf_hal.so \
